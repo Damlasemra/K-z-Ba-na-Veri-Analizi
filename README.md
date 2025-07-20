@@ -10,8 +10,6 @@ Bu projede Power BI kullanarak sipariş, müşteri, ürün ve bölge verileri an
   - Özet Sayfa
   - Müşteri Perspektifi
   - Kategori Perspektifi
-- Giriş sayfası üzerinden butonlarla diğer sayfalara yönlendirme
-- İstanbul’daki genç müşterilere özel satış analizi
 
 ## 🧩 Kullanılan Teknolojiler
 - Power BI Desktop
